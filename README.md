@@ -25,6 +25,6 @@ Connect with me:
 
 Languages and Tools:
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-16-blue)](https://reactjs.org/(https://www.w3schools.com/cpp/))
+[![Node.js](https://img.shields.io/badge/Node.js-14-green)](https://nodejs.org/)
+

@@ -1,4 +1,4 @@
-![cplusplus-original](https://github.com/dholedhiraj/dholedhiraj/assets/125818863/46c39814-4239-4d02-b194-8b4f3dd8bc9a)                                                             HI👋, I'am Dhiraj
+                                                           HI👋, I'am Dhiraj
 
 
                                                CS Student at YCCE || Quick Learner || Explorer
